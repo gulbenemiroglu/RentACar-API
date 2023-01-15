@@ -67,3 +67,8 @@ C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\obj\Debug\net5.0\refint\W
 C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
 C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\gulbe\OneDrive\Masaüstü\RentACar-API\WebAPI\bin\Debug\net5.0\FluentValidation.dll
